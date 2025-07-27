@@ -7,4 +7,4 @@ Este proyecto simula la modulación en amplitud (AM) y analiza su comportamiento
 
 ## Ejecución
 ```bash
-python modulacion_AM.py
+python act 4 señales y sistema.py
